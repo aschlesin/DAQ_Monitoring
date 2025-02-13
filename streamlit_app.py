@@ -1,12 +1,10 @@
 import json
+
 import streamlit as st
 
 from oncdw import ONCDW
-""" Developer: Kan Fu, ONC, 2025\\
-    Modified input file BPR_TOC.json"""
 
 st.set_page_config(layout="wide", page_title="My Title")
-
 # custom css
 st.markdown(
     """
