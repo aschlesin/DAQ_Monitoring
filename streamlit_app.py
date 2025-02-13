@@ -7,9 +7,6 @@ from oncdw import ONCDW
 
 st.set_page_config(layout="wide", page_title="My Title")
 
-client = ONCDW()
-
-
 # custom css
 st.markdown(
     """
@@ -51,7 +48,7 @@ print("Running the file.....................")
 devices = json.load(open("./BPR_TOC.json"))
 # devices = json.load(open("./toc_reduced.json"))
 
-
+client = ONCDW()
 
 st.title("BPR Monitoring Dashboard")
 
