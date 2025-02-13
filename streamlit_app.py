@@ -2,14 +2,9 @@ import json
 import streamlit as st
 
 from oncdw import ONCDW
-from dotenv import load_dotenv
-import os
- 
-# Load environment variables from the .env file
-load_dotenv()
- 
 
-client = ONCDW(token=os. getenv('token'))
+
+client = ONCDW()
 
 """ Developer: Kan Fu, ONC, 2025
     Modified for my needs with input in file BPR_TOC.json"""
