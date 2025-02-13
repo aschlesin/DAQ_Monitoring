@@ -7,7 +7,7 @@ from oncdw import ONCDW
 client = ONCDW()
 
 """ Developer: Kan Fu, ONC, 2025
-    Modified for my needs with input in file BPR_TOC.json"""
+    Modified input file BPR_TOC.json"""
 
 
 st.set_page_config(layout="wide", page_title="My Title")
