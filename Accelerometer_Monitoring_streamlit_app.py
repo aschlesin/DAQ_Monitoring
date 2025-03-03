@@ -4,7 +4,7 @@ import streamlit as st
 
 from oncdw import ONCDW
 
-st.set_page_config(layout="wide", page_title="Neptune BPR")
+st.set_page_config(layout="wide", page_title="Accelerometer and Tiltmeter")
 # custom css
 devices = json.load(open("./Acc_TOC.json"))
 
