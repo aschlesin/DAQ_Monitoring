@@ -54,7 +54,6 @@ with st.sidebar:
     st.title("Device List")
 
     for device in devices:
-        client.ui.sidebar_header_location(device)
         client.ui.sidebar_header_device(device)
         for sensor in device["sensors"]:
             client.ui.sidebar_subheader_sensor(sensor)
@@ -62,7 +61,6 @@ with st.sidebar:
 
 
 for device in devices:
-    client.ui.header_location(device)
     client.ui.header_device(device)
     
     # # Data Preview png
