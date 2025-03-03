@@ -6,7 +6,7 @@ from oncdw import ONCDW
 
 st.set_page_config(layout="wide", page_title="Accelerometer and Tiltmeter")
 # custom css
-devices = json.load(open("./Acc_TOC.json"))
+devices = json.load(open("pages/Acc_TOC.json"))
 
 client = ONCDW()
 

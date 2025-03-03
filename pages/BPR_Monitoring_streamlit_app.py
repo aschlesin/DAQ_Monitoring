@@ -6,7 +6,7 @@ from oncdw import ONCDW
 
 st.set_page_config(layout="wide", page_title="NEPTUNE BPRs")
 # custom css
-devices = json.load(open("./BPR_TOC.json"))
+devices = json.load(open("pages/BPR_TOC.json"))
 
 client = ONCDW()
 
