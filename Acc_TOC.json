@@ -2,6 +2,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000619",
         "locationCode": "AL2H",
+        "locationName": "Albert Head",
         "lat": 48.38981,
         "lon": -123.48739,
         "deviceId": 24061,
@@ -19,6 +20,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000646",
         "locationCode": "BACME.W1",
+        "locationName": "Accelerometer ",
         "lat": 48.314627,
         "lon": -126.058106,
         "deviceId": 24074,
@@ -36,6 +38,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000637",
         "locationCode": "BAMF",
+        "locationName": "Bamfield",
         "lat": 48.83533,
         "lon": -125.13514,
         "deviceId": 24064,
@@ -53,6 +56,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000349",
         "locationCode": "BCOV",
+        "locationName": "Beaver Cove",
         "lat": 50.54427,
         "lon": -126.84264,
         "deviceId": 23463,
@@ -70,6 +74,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN002582",
         "locationCode": "BPEB",
+        "locationName": "Brooks Peninsula",
         "lat": 50.15662,
         "lon": -127.77188,
         "deviceId": 28159,
@@ -87,6 +92,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000788",
         "locationCode": "CBC27.W1",
+        "locationName": "Accelerometer Nanometrics",
         "lat": 47.756685,
         "lon": -127.731932,
         "deviceId": 24433,
@@ -104,6 +110,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN000943",
         "locationCode": "CLRS",
+        "locationName": "Lake Cowichan",
         "lat": 48.82032,
         "lon": -124.1309,
         "deviceId": 24411,
@@ -121,6 +128,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000636",
         "locationCode": "CMBR",
+        "locationName": "Cumberland",
         "lat": 49.59497,
         "lon": -125.01135,
         "deviceId": 24063,
@@ -138,6 +146,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000787",
         "locationCode": "CQS64.W1",
+        "locationName": "Accelerometer Nanometrics",
         "lat": 48.699718,
         "lon": -126.872618,
         "deviceId": 24432,
@@ -155,6 +164,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001109",
         "locationCode": "ELIZ",
+        "locationName": "Eliza Dome",
         "lat": 49.87311,
         "lon": -127.12162,
         "deviceId": 28199,
@@ -172,6 +182,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000834",
         "locationCode": "ERMD",
+        "locationName": "East Richmond",
         "lat": 49.19781,
         "lon": -123.11988,
         "deviceId": 24310,
@@ -189,6 +200,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000842",
         "locationCode": "FAHB",
+        "locationName": "Fair Harbour",
         "lat": 50.060578,
         "lon": -127.114685,
         "deviceId": 24315,
@@ -206,6 +218,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001571",
         "locationCode": "GLRI",
+        "locationName": "Gold River-ONC",
         "lat": 49.778594,
         "lon": -126.047062,
         "deviceId": 66940,
@@ -223,6 +236,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001702",
         "locationCode": "JRDR",
+        "locationName": "Jordan River",
         "lat": 48.420143,
         "lon": -124.045709,
         "deviceId": 68500,
@@ -240,6 +254,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000782",
         "locationCode": "KWOS",
+        "locationName": "Kwois Creek",
         "lat": 50.23067,
         "lon": -127.13392,
         "deviceId": 24321,
@@ -257,6 +272,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001567",
         "locationCode": "KYUQ",
+        "locationName": "Kyuquot-EEW",
         "lat": 50.03308,
         "lon": -127.373667,
         "deviceId": 66820,
@@ -274,6 +290,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001110",
         "locationCode": "MGRB",
+        "locationName": "Mount Grey",
         "lat": 48.99973,
         "lon": -124.69705,
         "deviceId": 29599,
@@ -291,6 +308,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000357",
         "locationCode": "MYRA",
+        "locationName": "Myra Falls",
         "lat": 49.5509,
         "lon": -125.57053,
         "deviceId": 23466,
@@ -308,6 +326,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000819",
         "locationCode": "NANA",
+        "locationName": "Nanaimo",
         "lat": 49.237216,
         "lon": -124.063018,
         "deviceId": 24309,
@@ -325,6 +344,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000647",
         "locationCode": "NC89.W1",
+        "locationName": "Accelerometer Nanometrics",
         "lat": 48.670473,
         "lon": -126.847701,
         "deviceId": 24075,
@@ -342,6 +362,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000145",
         "locationCode": "NCBC.W1",
+        "locationName": "Accelerometer",
         "lat": 48.426575,
         "lon": -126.174652,
         "deviceId": 23454,
@@ -359,6 +380,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001113",
         "locationCode": "NCSB",
+        "locationName": "Newcastle Ridge",
         "lat": 50.40301,
         "lon": -126.0559,
         "deviceId": 29659,
@@ -376,6 +398,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001682",
         "locationCode": "NITI",
+        "locationName": "Nitinaht",
         "lat": 48.860686,
         "lon": -124.655785,
         "deviceId": 68440,
@@ -393,6 +416,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001121",
         "locationCode": "NTKA",
+        "locationName": "Nootka Lighthouse",
         "lat": 49.5924,
         "lon": -126.6166,
         "deviceId": 29699,
@@ -410,6 +434,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000353M",
         "locationCode": "PALI",
+        "locationName": "Port Alice",
         "lat": 50.42978,
         "lon": -127.4881,
         "deviceId": 24324,
@@ -427,6 +452,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000640",
         "locationCode": "PGC5",
+        "locationName": "EEW",
         "lat": 48.64983,
         "lon": -123.45206,
         "deviceId": 24067,
@@ -444,6 +470,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000617",
         "locationCode": "PHRD",
+        "locationName": "Port Hardy",
         "lat": 50.70615,
         "lon": -127.514717,
         "deviceId": 24059,
@@ -461,6 +488,7 @@
     {
         "deviceCode": "NANOMETRICSTITANEA000131",
         "locationCode": "PRAL.W1",
+        "locationName": "TitanEA",
         "lat": 49.218886,
         "lon": -124.811812,
         "deviceId": 23650,
@@ -478,6 +506,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001570",
         "locationCode": "PRAL.W2",
+        "locationName": "TitanSMA",
         "lat": 49.218886,
         "lon": -124.811812,
         "deviceId": 66920,
@@ -495,6 +524,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001683",
         "locationCode": "PREN",
+        "locationName": "Port Renfrew-ONC",
         "lat": 48.556529,
         "lon": -124.399594,
         "deviceId": 68460,
@@ -512,6 +542,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000845",
         "locationCode": "PTAL",
+        "locationName": "Port Alberni-NRCan",
         "lat": 49.25632,
         "lon": -124.8611,
         "deviceId": 24318,
@@ -529,6 +560,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN000969",
         "locationCode": "PTRF",
+        "locationName": "Port Renfrew-NRCan",
         "lat": 48.54423,
         "lon": -124.41304,
         "deviceId": 24412,
@@ -546,6 +578,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001573",
         "locationCode": "QISL",
+        "locationName": "Quadra Island-ONC",
         "lat": 50.11631,
         "lon": -125.222188,
         "deviceId": 67000,
@@ -563,6 +596,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000836",
         "locationCode": "QUAD",
+        "locationName": "Quadra Island-NRCan",
         "lat": 50.13247,
         "lon": -125.33072,
         "deviceId": 24311,
@@ -580,6 +614,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001569",
         "locationCode": "SAYW",
+        "locationName": "Sayward",
         "lat": 50.397276,
         "lon": -125.961756,
         "deviceId": 66900,
@@ -597,6 +632,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000635",
         "locationCode": "SC04",
+        "locationName": "Chemainus",
         "lat": 48.9233,
         "lon": -123.70432,
         "deviceId": 24062,
@@ -614,6 +650,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001117",
         "locationCode": "SHPB",
+        "locationName": "Sharp Point",
         "lat": 49.3476,
         "lon": -126.25979,
         "deviceId": 33039,
@@ -631,6 +668,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001704",
         "locationCode": "SNCH",
+        "locationName": "Saanich",
         "lat": 48.468465,
         "lon": -123.296153,
         "deviceId": 68540,
@@ -648,6 +686,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000840",
         "locationCode": "STRA",
+        "locationName": "Strathcona Park",
         "lat": 49.90003,
         "lon": -125.64718,
         "deviceId": 24313,
@@ -665,6 +704,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN000895",
         "locationCode": "SYMB",
+        "locationName": "Survey Mountain",
         "lat": 48.55929,
         "lon": -123.79893,
         "deviceId": 30539,
@@ -682,6 +722,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN001097",
         "locationCode": "TAHB",
+        "locationName": "Tahsis",
         "lat": 49.8925,
         "lon": -126.677,
         "deviceId": 32779,
@@ -699,6 +740,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001672",
         "locationCode": "TAYR",
+        "locationName": "Taylor River",
         "lat": 49.294836,
         "lon": -125.299886,
         "deviceId": 66860,
@@ -716,6 +758,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001544",
         "locationCode": "TELC",
+        "locationName": "Telegraph Cove",
         "lat": 50.545933,
         "lon": -126.832395,
         "deviceId": 66800,
@@ -733,6 +776,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000642",
         "locationCode": "TFNO",
+        "locationName": "Tofino",
         "lat": 49.15434,
         "lon": -125.90772,
         "deviceId": 24069,
@@ -750,6 +794,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000643",
         "locationCode": "UCLU",
+        "locationName": "Ucluelet",
         "lat": 48.92457,
         "lon": -125.54198,
         "deviceId": 24070,
@@ -767,6 +812,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000839",
         "locationCode": "VICP",
+        "locationName": "Victoria Peak",
         "lat": 50.00632,
         "lon": -126.10854,
         "deviceId": 24312,
@@ -784,6 +830,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001572",
         "locationCode": "WINH",
+        "locationName": "Winter Harbour",
         "lat": 50.52703,
         "lon": -128.01686,
         "deviceId": 66960,
@@ -801,6 +848,7 @@
     {
         "deviceCode": "NANOMETRICSTITAN000904",
         "locationCode": "WOSB",
+        "locationName": "Woss Lake",
         "lat": 50.16078,
         "lon": -126.57039,
         "deviceId": 30479,
@@ -818,6 +866,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA001701",
         "locationCode": "YWPT",
+        "locationName": "Yellow Point",
         "lat": 49.046248,
         "lon": -123.756308,
         "deviceId": 68480,
@@ -835,6 +884,7 @@
     {
         "deviceCode": "NANOMETRICSTITANSMA000843",
         "locationCode": "ZEBA.W3",
+        "locationName": "Titan Accelerometer",
         "lat": 49.98961,
         "lon": -126.85058,
         "deviceId": 24316,
@@ -852,6 +902,7 @@
     {
         "deviceCode": "RBRTILTMETERACCBPR63056",
         "locationCode": "BACND.Z1",
+        "locationName": "Tilt Meter",
         "lat": 48.345482,
         "lon": -126.157439,
         "deviceId": 24154,
@@ -869,6 +920,7 @@
     {
         "deviceCode": "RBRTILTMETERACCBPR63057",
         "locationCode": "CBC27.Z1",
+        "locationName": "Tilt Meter",
         "lat": 47.756717,
         "lon": -127.731602,
         "deviceId": 24155,
@@ -886,6 +938,7 @@
     {
         "deviceCode": "RBRTILTMETERACCBPR63055",
         "locationCode": "NC89.Z1",
+        "locationName": "Tilt Meter",
         "lat": 48.67087,
         "lon": -126.848141,
         "deviceId": 24150,
