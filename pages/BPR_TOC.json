@@ -296,8 +296,8 @@
         "deviceId": 23181,
         "sensors": [
             {
-                "sensorId": 13060,
-                "sensorName": "Seafloor Pressure (compromised)"
+                "sensorId": 11815,
+                "sensorName": "Seafloor Pressure"
             },
             {
                 "sensorId": 63,
