@@ -133,7 +133,7 @@ def Barkley(
 
 ###---
 
-json_filename = "Barkley_Mideast_Devices_1"
+json_filename = "Barkley_Mideast_Devices"
 location_code = "BACME"
 page_title = "Barkley MidEast"
 
