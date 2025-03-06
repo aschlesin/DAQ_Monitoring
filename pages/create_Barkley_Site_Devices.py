@@ -1,4 +1,4 @@
-from template import Site
+from template import Barkley
 
 json_filename = "Barkley_Mideast_Devices_1"
 location_code = "BACME"
@@ -9,7 +9,7 @@ device_name_id = "OceanWorks Junction Box JB-01 (10515)"
 device_console_url = "https://data.oceannetworks.ca/DC?TREETYPE=10&OBSERVATORY=8&STATION=102&DEVICE=10501&DEVICE=10515&TAB=Device%20Control"
 annotation_url = "https://data.oceannetworks.ca/AnnotationsV2?sourceFilter=3&sourceFilter=5&resourceFilter.resourceTypeId=1000&resourceFilter.resource.id=10515&resourceFilter.resource.name=OceanWorks%20Junction%20Box%20JB-01%20%2810515%29&resourceFilter.includeTopology=true&fieldFilter"
 
-Site(
+Barkley(
     json_filename,
     location_code,
     page_title,
